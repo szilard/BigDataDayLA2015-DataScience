@@ -3,7 +3,7 @@ Big Data Day LA 2015 - Data Science Track
 =========================================
 
 Big Data Day LA is an annual free conference on Big Data (Hadoop/Spark), Data Science, NoSQL etc.
-I've been running the Data Science Track since inception. 
+I've been running the Data Science Track since inception in 2014 and with @earino since 2015. 
 Unfortunately the [conference website](http://bigdatadayla.org/) does not list the schedule anymore.  
 Therefore, here is the list of talks (with slides linked below) from the Data Science Track in 2015:
 
