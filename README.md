@@ -20,13 +20,13 @@ Therefore, here is the list of talks (with slides linked below) from the Data Sc
 [Data Analytics, Data Mining, Forecasting, and BI at the RRCC](http://www.slideshare.net/sawjd/data-mining-forecasting-and-bi-at-the-rrcc-by-benjamin-uminsky-of-la-county-registrarrecordercounty-clerk)
 
 5. Brian Kursar, Sr. Data Scientist, Toyota: 
-Feature Engineering
+[Feature Engineering](http://www.slideshare.net/sawjd/feature-engineering-by-brian-kursar-of-toyota)
 
 6. Ulas Bardak, CDO, Whisper: 
 [Data Science as a crucial tool for startups](http://www.slideshare.net/sawjd/data-science-at-whisper-from-content-quality-to-personalization-by-ulas-bardak-of-whisper)
 
 7. Kyle Polich, Principal Data Scientist, DataScience Inc: 
-Applications of the Apriori Algorithm on Open Data
+[Applications of the Apriori Algorithm on Open Data](http://www.slideshare.net/sawjd/applications-of-the-apriori-algorithm-on-open-data-by-kyle-polich-of-datascience)
 
 
 
